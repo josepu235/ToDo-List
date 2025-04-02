@@ -56,7 +56,7 @@ const App = () => {
     return (
         <div className="container">
             <h2>To-Do List</h2>
-            <h5>By: Josef</h5>
+            <h5>By: Josef and Jessica</h5>
             <div className="input-container">
                 <input
                     type="text"
